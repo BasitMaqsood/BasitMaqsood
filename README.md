@@ -3,12 +3,6 @@
 - 🥅 2021 Goals: serve the world community with coding skills
 - ⚡ Fun fact: I love to make short notes on everything I learnt.
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/MBasitMaqsood1" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/basitmaqsood/" />][linkedin]
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
