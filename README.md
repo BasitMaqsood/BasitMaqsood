@@ -1,7 +1,7 @@
 # FULL STACK DEVELOPER 
 
 - 🥅 2021 Goals: Serve the world community with coding skills
-- ⚡ Fun fact: I love to make short notes on everything I learnt.
+- ⚡ Fun fact: I love to make short notes on everything I learn.
 
 ### Languages and Tools:
 
